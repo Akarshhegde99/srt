@@ -45,12 +45,6 @@ An interactive web application that visualizes how various sorting algorithms wo
 
 ---
 
-## 📄 License
-
-This project is open-source and free to use under the [MIT License](LICENSE).
-
----
-
 ## 👨‍💻 Author
 
 **Akarsh Hegde**
